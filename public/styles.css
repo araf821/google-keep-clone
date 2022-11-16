@@ -114,9 +114,4 @@ form.create-note button {
     form.create-note {
       width: 80%;
     }
-
-    .note {
-      margin-left: 0;
-      margin-right: auto;
-    }
 }
